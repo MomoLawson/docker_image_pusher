@@ -1,1 +1,1 @@
-tailscale/tailscale:latest
+kaminskypavel/mario:latest
