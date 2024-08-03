@@ -1,1 +1,1 @@
---platform=tailscale/tailscale
+tailscale
