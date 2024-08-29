@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+kaminskypavel/mario:latest
