@@ -27,8 +27,8 @@ https://cr.console.aliyun.com/<br>
 ![](/doc/用户名密码.png)
 
 
-### Fork本项目
-Fork本项目<br>
+### 复刻本项目
+复刻本项目<br>
 #### 启动Action
 进入您自己的项目，点击Action，启用Github Action功能<br>
 #### 配置环境变量
