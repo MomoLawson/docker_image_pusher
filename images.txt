@@ -1,1 +1,2 @@
-razeencheng/iosbackup:latest
+githubyumao/mcsmanager-daemon:latest
+githubyumao/mcsmanager-web:latest
