@@ -1,2 +1,1 @@
-githubyumao/mcsmanager-daemon:latest
-githubyumao/mcsmanager-web:latest
+linuxserver/openssh-server:latest
