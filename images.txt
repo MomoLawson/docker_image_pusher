@@ -1,1 +1,1 @@
-linuxserver/openssh-server:latest
+nousresearch/hermes-agent
